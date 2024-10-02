@@ -224,6 +224,7 @@ class _StudentsPagesState extends State<StudentsPages> {
                   Wrap(
                     alignment: WrapAlignment.center,
                     spacing: 7,
+
                     crossAxisAlignment: WrapCrossAlignment.center,
                     children: _getStudentsToDisplay().map((student) {
                       return SizedBox(
@@ -247,10 +248,10 @@ class _StudentsPagesState extends State<StudentsPages> {
                               subtitle: Column(
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
-//  Standard
+//  Standards
                                   Row(
                                     children: [
-//  Book Svg Icon
+//  Book Svg Icons
                                       SvgPicture.asset(
                                         'assets/icons/svg/book-open.svg',
                                         width: 20,
@@ -259,14 +260,14 @@ class _StudentsPagesState extends State<StudentsPages> {
                                         color: Colors.teal,
                                       ), // Adjust icon size
                                       const SizedBox(width: 20),
-//  Standard Number                                      // Increase spacing
+//  Standard Numbers                                      // Increase spacing
                                       Text(student.standard.toString(),
                                           style:
                                               dTextStyle16()), // Adjust text size
                                     ],
                                   ),
 
-//  Enrollment Number
+//  Enrollment Numbers
                                   Row(
                                     children: [
                                       SvgPicture.asset(

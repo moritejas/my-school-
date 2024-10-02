@@ -30,6 +30,7 @@ class HomeworkController extends GetxController {
       hClass.value = allHomework.map((hw) => hw.hwclass).toSet().toList();
       print(hClass);
     } catch (e) {
+
       print(e);
     }
   }
