@@ -1,0 +1,145 @@
+[
+  {
+    "fullname": "Tejas Mori ",
+    "subjects": "account",
+    "id_no": 101,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Tejas Mori ",
+    "subjects": "science",
+    "id_no": 102,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Tejas Mori ",
+    "subjects": "Maths",
+    "id_no": 103,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Yash Mori",
+    "subjects": "Maths",
+    "id_no": 104,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Yash Mori",
+    "subjects": "English",
+    "id_no": 101,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Yash Mori",
+    "subjects": "Hindi",
+    "id_no": 102,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Mahesh Dabhi",
+    "subjects": "Gujarati",
+    "id_no": 103,
+    "gender": "Female",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Hitesh Mori",
+    "subjects": "hindi",
+    "id_no": 101,
+    "gender": "female",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Rajesh",
+    "subjects": "Hindi",
+    "id_no": 102,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "mahesh Mori",
+    "subjects": "Gujarati",
+    "id_no": 103,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Tejas Mori",
+    "subjects": "English",
+    "id_no": 101,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "hitesh Mori",
+    "subjects": "Hindi",
+    "id_no": 102,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "mahesh Mori",
+    "subjects": "Gujarati",
+    "id_no": 103,
+    "gender": "Male",
+    "email": "tejas333@gmail.com",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  }
+]

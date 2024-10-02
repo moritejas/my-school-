@@ -1,0 +1,220 @@
+[
+  {
+    "Monday": [
+      {
+        "subject": "Computer",
+        "time": "08:15am",
+        "teacher": "Cherise",
+        "type": "Period"
+      },
+      {
+        "subject": "Mathematics",
+        "time": "09:00am",
+        "teacher": "Rivka",
+        "type": "Period"
+      },
+      {
+        "subject": "English",
+        "time": "09:45am",
+        "teacher": "Marta",
+        "type": "Period"
+      },
+      {"subject": "Lunch",
+        "time": "10:30am",
+        "teacher": "",
+        "type": "Lunch"},
+      {
+        "subject": "Science",
+        "time": "11:00am",
+        "teacher": "Danica",
+        "type": "Period"
+      },
+      {
+        "subject": "Social",
+        "time": "11:45am",
+        "teacher": "Danica",
+        "type": "Period"
+      }
+    ],
+    "Tuesday": [
+      {
+        "subject": "Computer",
+        "time": "08:15am",
+        "teacher": "Cherise",
+        "type": "Period"
+      },
+      {
+        "subject": "Mathematics",
+        "time": "09:00am",
+        "teacher": "Rivka",
+        "type": "Period"
+      },
+      {
+        "subject": "English",
+        "time": "09:45am",
+        "teacher": "Marta",
+        "type": "Period"
+      },
+      {"subject": "Lunch",
+        "time": "10:30am",
+        "teacher": "",
+        "type": "Lunch"},
+      {
+        "subject": "Science",
+        "time": "11:00am",
+        "teacher": "Danica",
+        "type": "Period"
+      },
+      {
+        "subject": "Social",
+        "time": "11:45am",
+        "teacher": "Danica",
+        "type": "Period"
+      }
+    ],
+    "Wednesday": [
+      {
+        "subject": "Computer",
+        "time": "08:15am",
+        "teacher": "Cherise",
+        "type": "Period"
+      },
+      {
+        "subject": "Mathematics",
+        "time": "09:00am",
+        "teacher": "Rivka",
+        "type": "Period"
+      },
+      {
+        "subject": "English",
+        "time": "09:45am",
+        "teacher": "Marta",
+        "type": "Period"
+      },
+      {"subject": "Lunch",
+        "time": "10:30am",
+        "teacher": "",
+        "type": "Lunch"},
+      {
+        "subject": "Science",
+        "time": "11:00am",
+        "teacher": "Danica",
+        "type": "Period"
+      },
+      {
+        "subject": "Social",
+        "time": "11:45am",
+        "teacher": "Danica",
+        "type": "Period"
+      }
+    ],
+    "Thursday": [
+      {
+        "subject": "Computer",
+        "time": "08:15am",
+        "teacher": "Cherise",
+        "type": "Period"
+      },
+      {
+        "subject": "Mathematics",
+        "time": "09:00am",
+        "teacher": "Rivka",
+        "type": "Period"
+      },
+      {
+        "subject": "English",
+        "time": "09:45am",
+        "teacher": "Marta",
+        "type": "Period"
+      },
+      {"subject": "Lunch",
+        "time": "10:30am",
+        "teacher": "",
+        "type": "Lunch"},
+      {
+        "subject": "Science",
+        "time": "11:00am",
+        "teacher": "Danica",
+        "type": "Period"
+      },
+      {
+        "subject": "Social",
+        "time": "11:45am",
+        "teacher": "Danica",
+        "type": "Period"
+      }
+    ],
+    "Friday": [
+      {
+        "subject": "Computer",
+        "time": "08:15am",
+        "teacher": "Cherise",
+        "type": "Period"
+      },
+      {
+        "subject": "Mathematics",
+        "time": "09:00am",
+        "teacher": "Rivka",
+        "type": "Period"
+      },
+      {
+        "subject": "English",
+        "time": "09:45am",
+        "teacher": "Marta",
+        "type": "Period"
+      },
+      {"subject": "Lunch",
+        "time": "10:30am",
+        "teacher": "",
+        "type": "Lunch"},
+      {
+        "subject": "Science",
+        "time": "11:00am",
+        "teacher": "Danica",
+        "type": "Period"
+      },
+      {
+        "subject": "Social",
+        "time": "11:45am",
+        "teacher": "Danica",
+        "type": "Period"
+      }
+    ],
+    "Saturday": [
+      {
+        "subject": "Computer",
+        "time": "08:15am",
+        "teacher": "Cherise",
+        "type": "Period"
+      },
+      {
+        "subject": "Mathematics",
+        "time": "09:00am",
+        "teacher": "Rivka",
+        "type": "Period"
+      },
+      {
+        "subject": "English",
+        "time": "09:45am",
+        "teacher": "Marta",
+        "type": "Period"
+      },
+      {"subject": "Lunch",
+        "time": "10:30am",
+        "teacher": "",
+        "type": "Lunch"},
+      {
+        "subject": "Science",
+        "time": "11:00am",
+        "teacher": "Danica",
+        "type": "Period"
+      },
+      {
+        "subject": "Social",
+        "time": "11:45am",
+        "teacher": "Danica",
+        "type": "Period"
+      }
+    ]
+  }
+]

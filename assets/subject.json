@@ -1,0 +1,8 @@
+{
+  "Classes": {
+    "c10": ["maths", "Science", "history", "social science", "english", "hindi"],
+    "c9": ["maths", "Science", "social science", "english", "gujrati"],
+    "c8": ["maths", "Science", "social science", "english", "hindi"],
+    "c7": ["maths", "Science", "social science", "english", "hindi"]
+  }
+}

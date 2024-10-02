@@ -1,0 +1,245 @@
+[
+  {
+    "fullname": "Tejas Mori",
+    "class": "8",
+    "id_no": 106,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Vandan Mori",
+    "class": "8",
+    "id_no": 107,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Shiavm",
+    "class": "8",
+    "id_no": 108,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Akash",
+    "class": "8",
+    "id_no": 109,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Dhruv",
+    "class": "8",
+    "id_no": 110,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Hitesh Mori",
+    "class": "8",
+    "id_no": 101,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Yash Mori",
+    "class": "8",
+    "id_no": 102,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Minakshi",
+    "class": "8",
+    "id_no": 103,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Kuldeep",
+    "class": "8",
+    "id_no": 104,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Jitendra",
+    "class": "8",
+    "id_no": 105,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Sunil",
+    "class": "12",
+    "id_no": 110,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Tejas Mori",
+    "class": "1",
+    "id_no": 111,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Shiavm",
+    "class": "12A",
+    "id_no": 112,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Akash",
+    "class": "12A",
+    "id_no": 113,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Dhruv",
+    "class": "12A",
+    "id_no": 114,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Hitesh Mori",
+    "class": "11B",
+    "id_no": 115,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Yash Mori",
+    "class": "11A",
+    "id_no": 116,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Minakshi",
+    "class": "11A",
+    "id_no": 117,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Kuldeep",
+    "class": "11B",
+    "id_no": 118,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Jitendra",
+    "class": "11B",
+    "id_no": 119,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Sunil",
+    "class": "11C",
+    "id_no": 120,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  },
+  {
+    "fullname": "Sonakshi",
+    "class": "11D",
+    "id_no": 120,
+    "gender": "Male",
+    "enrollment_number": "20231020",
+    "phone_number": 1425364769,
+    "date_of_birth": "2004-02-28",
+    "joining_date": "2004-02-28",
+    "address": "707 Walnut Circle, Springfield, IL 62710"
+  }
+
+]
